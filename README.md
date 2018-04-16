@@ -1,2 +1,2 @@
-# Python-Tutorial-20180416
+# Python-20180416
 Tutorial
